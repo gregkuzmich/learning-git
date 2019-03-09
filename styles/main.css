@@ -9,3 +9,13 @@ body {
 	background: #eee;
 	font-family: 'Open Sans', sans-serif;
 }
+
+h1 {
+	color: blue;
+	font-weight: 800;
+
+}
+
+p {
+	background-color: pink;
+}
